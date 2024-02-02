@@ -168,3 +168,14 @@ main h2 {
     background-color: #3075e3;
     cursor: pointer;
 }
+
+/* FOOTER */
+
+footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    padding: 38px 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
