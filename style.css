@@ -138,3 +138,33 @@ main h2 {
     font-size: 25px;
     color: #1F2937;
 }
+
+/* SIGN UP SECTION */
+
+.sign-up-section {
+    padding: 75px 180px;
+}
+
+.sign-up-banner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 18px;
+    background-color: #3882F6;
+    color: white;
+    padding: 38px 75px;
+    border-radius: 10px;
+}
+
+.sign-up-button {
+    padding: 8px 30px;
+    background-color: #3882F6;
+    color: white;
+    border: white 2px solid;
+    border-radius: 5px;
+}
+
+.sign-up-button:hover {
+    background-color: #3075e3;
+    cursor: pointer;
+}
